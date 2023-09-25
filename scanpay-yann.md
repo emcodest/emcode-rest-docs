@@ -55,14 +55,14 @@
 
 **Request Body:** {
 
-	"firstname":"Emcode",
+     "firstname":"Emcode",
     "lastname":"LLC",
     "email":"emcodellc@gmail.com",
     "phone":"+2348064642044",
     "address": "Port Harcourt, Nigeria",
     "pin": "1421",
-	  "location": "Latitude: 3.4555587,Longitude: 6.7534736",
-	  "bvn": ""
+    "location": "Latitude: 3.4555587,Longitude: 6.7534736",
+    "bvn": ""
 	
 }
 
@@ -85,14 +85,14 @@
 
 **Request Body:** {
 
-	"firstname":"Emcode",
+    "firstname":"Emcode",
     "lastname":"LLC",
     "email":"emcodellc@gmail.com",
     "phone":"+2348064642044",
     "address": "Port Harcourt, Nigeria",
     "pin": "1421",
-	  "location": "Latitude: 3.4555587,Longitude: 6.7534736",
-	  "bvn": ""
+    "location": "Latitude: 3.4555587,Longitude: 6.7534736",
+    "bvn": ""
 	
 }
 
