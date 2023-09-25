@@ -4,7 +4,9 @@
 
 ### 1. @LOGIN TO USER WALLET
 
-**EndPoint:** {{base_url}}/api/v2/login  HTTP/1.1 POST
+###### HTTP/1.1 POST
+
+**EndPoint:** {{base_url}}/api/v2/login  
 
 **Request Body:** {
 	
@@ -47,7 +49,9 @@
 }
 ### 2. @REGISTER WALLET
 
-**EndPoint:** {{base_url}}/api/v2/register   HTTP/1.1 POST
+###### HTTP/1.1 POST
+
+**EndPoint:** {{base_url}}/api/v2/register   
 
 **Request Body:** {
 
@@ -70,7 +74,9 @@
 
 ### 3. @GET USER WALLET
 
-**EndPoint:** {{base_url}}/api/v2/user/account  HTTP/1.1 GET
+**EndPoint:** {{base_url}}/api/v2/user/account  
+
+###### HTTP/1.1 GET
 
 **Header:** {
 
