@@ -37,14 +37,9 @@
 		"full_name": "Emma Jr",
 		"address": null,
 		"phone": "+2348064642044",
-		"account_no": "7810595478",
-		"bank_code": "035",
 		"balance": 476,
 		"token": "TK-i4zCkT5av7we^pKT_aCe",
-		"card_details": [],
-		"facially_recognized": false,
-		"facial_recognition_pictures": [],
-		"_id": "60a15324fa4d01ff0e0b9319"
+		"wallet_details": {}
 	}
 }
 ### 2. @REGISTER WALLET
